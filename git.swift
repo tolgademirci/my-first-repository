@@ -1,1 +1,1 @@
-var myFirstChange = "This is a change"
+var myFirstChange = "This is a change" and awesomeness
